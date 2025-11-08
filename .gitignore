@@ -1,0 +1,35 @@
+# --------------------------
+# Python and environment files
+# --------------------------
+__pycache__/
+lib/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+
+# Virtual environments
+venv/
+.env/
+.venv/
+bin/
+
+# --------------------------
+# IDE and editor metadata
+# --------------------------
+.idea/
+.vscode/
+*.code-workspace
+
+# --------------------------
+# Data and temporary files
+# --------------------------
+*.csv
+
+# --------------------------
+# Selenium / browser cache
+# --------------------------
+selenium-screenshot*.png
+debug.log
