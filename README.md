@@ -58,8 +58,8 @@ You’ll need:
 Clone this repository and install the required libraries:
 
 ```bash
-git clone https://github.com/GalaNeo/x-collector.git
-cd x-collector
+git clone https://github.com/GalaNeo/X-Collector.git
+cd X-Collector
 pip install -r requirements.txt
 ```
 
