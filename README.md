@@ -8,7 +8,7 @@ Originally designed for learning and experimentation around **sentiment analysis
 ##  Features
 - Uses **[Selenium](https://www.selenium.dev/documentation/)** and **[BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)** to collect and parse X posts/replies.  
 - Saves results to a clean, deduplicated **CSV** file.  
-- Fully **manual login flow** (bypasses automation detection).  
+- Fully manual login flow (bypasses automation detection).  
 - Includes configurable parameters for scroll depth, tweet count targets, and timing.  
 - Simple, readable structure -> easy to modify or extend.
 
@@ -125,9 +125,9 @@ The final CSV will look something like this:
 ---
 
 ## Future Plans
-Originally designed for collecting tweets for **sentiment analysis**.
+Originally designed for collecting tweets for sentiment analysis.
 Next steps include:
-- Using **NLTK** to classify sentiment
+- Using NLTK to classify sentiment
 - Tracking engagement trends over time
 - Visualizing tweet activity by keyword
 
